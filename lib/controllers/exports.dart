@@ -1,0 +1,12 @@
+export 'package:job_studio/controllers/bookmark_provider.dart';
+export 'package:job_studio/controllers/image_update_provider.dart';
+export 'package:job_studio/controllers/job_provider.dart';
+export 'package:job_studio/controllers/auth/login_provider.dart';
+export 'package:job_studio/controllers/onboading_provider.dart';
+export 'package:job_studio/controllers/profile_provider.dart';
+export 'package:job_studio/controllers/auth/register-provider.dart';
+export 'package:job_studio/controllers/zoom_provider.dart';
+export 'package:job_studio/controllers/auth/company_register_provider.dart';
+export 'package:job_studio/controllers/custom_stepper_provider.dart';
+export 'package:job_studio/controllers/auth/otp_provider.dart';
+export 'package:job_studio/controllers/auth/forgot_provider.dart';
